@@ -72,7 +72,6 @@ const Apps = () => {
                         style={{ width: '95%' }}
                         onSearch={handleSearch}
                         size="large" 
-                        
                     >
                         <Input.Search size="large" placeholder="Input here" />
                     </AutoComplete>
